@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1146132f-aac9-48da-931f-7ad805a64d3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/CodeGym-Module-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/CodeGym-Module-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss1/Bai_1.html" beforeDir="false" />
+    <list default="true" id="3f48d25a-dcae-46c2-9837-19ccdc7806cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/Bai_tap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/src/Bai1_Name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/src/Bai2_money_change.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/src/Bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai_tap/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thuc_hanh/Thuc_hanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thuc_hanh/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/ss2_loop_in_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +37,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "customColor": "",
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2YWOKOjM4u7OIaG3ImsLdifqf6x" />
+  <component name="ProjectId" id="2YWrkSDHDg7orfygyD24fxWcWEn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,19 +51,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/CodeGym-Module-2/ss2_loop_in_java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1146132f-aac9-48da-931f-7ad805a64d3b" name="Changes" comment="" />
-      <created>1700637804388</created>
+      <changelist id="3f48d25a-dcae-46c2-9837-19ccdc7806cf" name="Changes" comment="" />
+      <created>1700652321213</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700637804388</updated>
-      <workItem from="1700637805388" duration="37000" />
+      <updated>1700652321213</updated>
+      <workItem from="1700652324524" duration="46000" />
     </task>
     <servers />
   </component>
