@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f48d25a-dcae-46c2-9837-19ccdc7806cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/Bai_tap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/src/Bai1_Name.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/src/Bai2_money_change.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/src/Bai3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bai_tap/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thuc_hanh/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thuc_hanh/Thuc_hanh.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thuc_hanh/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/ss2_loop_in_java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss2_loop_in_java/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/src/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/src/Bai2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss1/src/Bai_tap/DocSoThanhChu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ss1/src/Bai_tap/DocSoThanhChu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss2/src/Bai3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ss2/src/Bai3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +15,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YWrkSDHDg7orfygyD24fxWcWEn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,6 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/CodeGym",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -66,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700652321213</updated>
       <workItem from="1700652324524" duration="46000" />
+      <workItem from="1700903644281" duration="19000" />
     </task>
     <servers />
   </component>

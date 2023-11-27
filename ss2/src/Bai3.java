@@ -18,7 +18,6 @@ public class Bai3 {
                 return false;
             }
         }
-
         return true;
     }
 }
