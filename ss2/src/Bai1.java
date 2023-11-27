@@ -1,3 +1,5 @@
+package ss2.src;
+
 import java.util.Scanner;
 
 public class Bai1 {
