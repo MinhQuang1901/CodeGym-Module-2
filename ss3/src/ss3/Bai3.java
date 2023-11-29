@@ -1,4 +1,4 @@
-package ss3.src;
+package ss3;
 
 import java.util.Scanner;
 

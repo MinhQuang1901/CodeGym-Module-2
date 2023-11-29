@@ -44,7 +44,6 @@ public class QuadraticEquation {
         }
 
         public static void main(String[] args) {
-            // Nhập giá trị cho a, b, c từ người dùng
             double a, b, c;
             Scanner scanner = new Scanner(System.in);
 
@@ -57,10 +56,8 @@ public class QuadraticEquation {
             System.out.print("Nhập giá trị cho c: ");
             c = scanner.nextDouble();
 
-            // Tạo đối tượng QuadraticEquation
             QuadraticEquation equation = new QuadraticEquation(a, b, c);
 
-            // Tính delta và hiển thị kết quả
             double delta = equation.getDiscriminant();
 
             if (delta > 0) {
@@ -73,7 +70,6 @@ public class QuadraticEquation {
                 System.out.println("Phương trình không có nghiệm thực.");
             }
 
-            // Đóng đối tượng Scanner
             scanner.close();
         }
     }

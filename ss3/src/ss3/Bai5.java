@@ -1,6 +1,8 @@
+package ss3;
+
 import java.util.Scanner;
 
-public class Bai4 {
+public class Bai5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -14,7 +16,7 @@ public class Bai4 {
 
         nhapMaTran(sc, maTran);
 
-        double[] result = timGiaTriLonNhat(maTran);
+        double[] result = timGiaTriNhoNhat(maTran);
 
         System.out.println("Phần tử lớn nhất của ma trận là " + result[0]
                 + " tại vị trí [" + (int) result[1] + "][" + (int) result[2] + "]");
@@ -32,22 +34,22 @@ public class Bai4 {
         }
     }
 
-    public static double[] timGiaTriLonNhat(double[][] maTran) {
-        double maxValue = maTran[0][0];
+    public static double[] timGiaTriNhoNhat(double[][] maTran) {
+        double minValue = maTran[0][0];
         int hang = 0;
         int cot = 0;
 
         for (int i = 0; i < maTran.length; i++) {
             for (int j = 0; j < maTran[0].length; j++) {
-                if (maTran[i][j] > maxValue) {
-                    maxValue = maTran[i][j];
+                if (maTran[i][j] < minValue) {
+                    minValue = maTran[i][j];
                     hang = i;
                     cot = j;
                 }
             }
         }
 
-        double[] result = {maxValue, hang, cot};
+        double[] result = {minValue, hang, cot};
         return result;
     }
 }
