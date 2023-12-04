@@ -57,8 +57,8 @@ public class Fan {
                     ", radius= " + this.getRadius() +
                     ", color= " + this.getColor();
         } else {
-            return "fan is off {" +
-                    ", color= " + this.getColor() +
+            return "fan is off " +
+                    " color= " + this.getColor() +
                     ", radius= " + this.getRadius();
 
         }
