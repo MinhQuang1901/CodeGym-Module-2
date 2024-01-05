@@ -12,6 +12,9 @@ public class Student {
         this.classes = classes;
     }
 
+    public Student(int id, String name) {
+    }
+
     public String getName() {
         return name;
     }
